@@ -1,0 +1,19 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/.env
+backend/.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS / Editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temp / audio / logs
+*.mp3
+*.wav
+*.log
