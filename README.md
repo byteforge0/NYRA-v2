@@ -133,7 +133,7 @@ HF_HUB_DISABLE_SYMLINKS_WARNING=1
 ## 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <https://github.com/byteforge0/NYRA-v2.git>
 cd "NYRA v2"
 ```
 
